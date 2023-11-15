@@ -1,14 +1,4 @@
-#,"Country,
-Other","Total
-Cases","Total
-Deaths","Total
-Recovered","Active
-Cases","Serious,
-Critical","Tot Cases/
-1M pop","Deaths/
-1M pop","Total
-Tests","Tests/
-1M pop",Population
+#,"Country, Other","Total Cases","Total Deaths","Total Recovered","Active Cases","Serious, Critical","Tot Cases/ 1M pop","Deaths/ 1M pop","Total Tests","Tests/ 1M pop",Population
 1,USA,"9,81,66,904","10,84,282","9,49,62,112","21,20,510","2,970","2,93,206","3,239","1,11,81,58,870","33,39,729","33,48,05,269"
 2,India,"4,45,87,307","5,28,629","4,40,19,095","39,583",698,"31,698",376,"89,44,16,853","6,35,857","1,40,66,31,776"
 3,France,"3,53,42,950","1,55,078","3,45,27,115","6,60,757",869,"5,38,892","2,365","27,14,90,188","41,39,547","6,55,84,518"
